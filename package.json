@@ -10,7 +10,8 @@
     "Barcode.js",
     "ios",
     "android/src",
-    "android/build.gradle"
+    "android/build.gradle",
+    "RNSmartBarcode.podspec"
   ],
   "repository": {
     "type": "git",
