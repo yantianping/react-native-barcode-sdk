@@ -67,6 +67,14 @@ export default class Barcode extends Component {
     stopScan() {
         BarcodeManager.stopSession()
     }
+	
+	static  startFlash(){
+        BarcodeManager.startFlash();
+    }
+
+    static  stopFlash(){
+        BarcodeManager.stopFlash();
+    }
 
     _handleAppStateChange = (currentAppState) => {
         if(currentAppState !== 'active' ) {

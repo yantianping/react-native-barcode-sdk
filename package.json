@@ -1,5 +1,5 @@
 {
-  "name": "react-native-barcode-sdk",
+  "name": "react-native-barcode-sdk-v2",
   "version": "1.0.0",
   "description": "A smart barcode scanner component for React Native app",
   "main": "Barcode.js",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/850176300/react-native-barcode-sdk.git"
+    "url": "https://github.com/yantianping/react-native-barcode-sdk.git"
   },
   "keywords": [
     "react-native",
@@ -26,9 +26,9 @@
   "author": "HISAME SHIZUMARU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/850176300/react-native-barcode-sdk/issues"
+    "url": "https://github.com/yantianping/react-native-barcode-sdk/issues"
   },
-  "homepage": "https://github.com/850176300/react-native-barcode-sdk#readme",
+  "homepage": "https://github.com/yantianping/react-native-barcode-sdk#readme",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   }

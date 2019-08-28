@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '10.0'
 
   s.resource = ['ios/raw/*.wav']
-  s.source       = { :git => "https://github.com/850176300/react-native-barcode-sdk.git", :tag => "v" + package['version']  }
+  s.source       = { :git => "https://github.com/yantianping/react-native-barcode-sdk.git", :tag => "v" + package['version']  }
   s.source_files  = "ios/**/*.{h,m}"
 
   s.dependency 'React'
